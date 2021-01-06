@@ -31,7 +31,7 @@ export let options = {
                 { target: 16, duration: '5m' },
                 { target: 18, duration: '10s' },
                 { target: 18, duration: '5m' },
-                { target: 20, duration: '10s' }
+                { target: 20, duration: '10s' },
                 { target: 20, duration: '5m' }
             ],
             exec: 'get_base'
@@ -63,7 +63,7 @@ export let options = {
                 { target: 5, duration: '5m' },
                 { target: 6, duration: '10s' },
                 { target: 6, duration: '5m' },
-                { target: 7, duration: '10s' }
+                { target: 7, duration: '10s' },
                 { target: 7, duration: '5m' }
             ],
             exec: 'make_order'
