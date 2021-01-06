@@ -23,10 +23,15 @@ export let options = {
             maxVUs: 20,
             stages: [
                 { target: 10, duration: '10m' },
+                { target: 12, duration: '10s' },
                 { target: 12, duration: '5m' },
+                { target: 14, duration: '10s' },
                 { target: 14, duration: '5m' },
+                { target: 16, duration: '10s' },
                 { target: 16, duration: '5m' },
+                { target: 18, duration: '10s' },
                 { target: 18, duration: '5m' },
+                { target: 20, duration: '10s' }
                 { target: 20, duration: '5m' }
             ],
             exec: 'get_base'
@@ -50,10 +55,15 @@ export let options = {
             maxVUs: 20,
             stages: [
                 { target: 2, duration: '10m' },
+                { target: 3, duration: '10s' },
                 { target: 3, duration: '5m' },
+                { target: 4, duration: '10s' },
                 { target: 4, duration: '5m' },
+                { target: 5, duration: '10s' },
                 { target: 5, duration: '5m' },
+                { target: 6, duration: '10s' },
                 { target: 6, duration: '5m' },
+                { target: 7, duration: '10s' }
                 { target: 7, duration: '5m' }
             ],
             exec: 'make_order'
