@@ -1,0 +1,16 @@
+{
+  "name":"Test",
+  "email":"test@otus.ru",
+  "adress":"spb",
+  "cartItems":[
+    {
+      "_id":"sushi1",
+      "title":"California",
+      "image":"/images/sushi1.jpg",
+      "description":"USA wibe",
+      "price":"600",
+      "availableSizes":["Small","Big"],
+      "count":"1"
+    }
+  ]
+}
